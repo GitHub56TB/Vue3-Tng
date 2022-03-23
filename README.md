@@ -1,4 +1,4 @@
-#Vue3-Tng
+#Vue JS 3 Training Baseline files with Pinia and Vuex
 
 This template should help get you started developing with Vue 3 in Vite.
 
